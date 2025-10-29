@@ -157,6 +157,6 @@ _Made with ❤️ by [I am Programmer][lead_maintainer] and [The Pretty Bash Tea
 [issues]: https://github.com/prettybash/prettybash/issues
 [contributing]: https://github.com/prettybash/prettybash/contributing.md
 [contributors]: https://github.com/prettybash/prettybash/graphs/contributors
-[documentation_repository]: https://github.com/prettybash/documentation
+[documentation_repository]: https://github.com/prettybash/prettybash.github.io
 [donation]: https://github.com/sponsors/iamprogrammerlk
 [lead_maintainer]: https://github.com/iamprogrammerlk
