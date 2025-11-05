@@ -1,6 +1,5 @@
-<a name="readme-top"></a>
-
-<br><br><br><br>
+<br>
+<br>
 
 <div align="center" style="text-align: center;">
 
@@ -8,30 +7,33 @@
     <img src="https://avatars.githubusercontent.com/u/240835535?s=200&v=4" alt="Pretty Bash" width="200">
   </a>
 
-<!-- <br><br>
+<br>
+<br>
 
-  <h1><i>{{ORGANIZATION_TAGLINE}}</i></h1>
+  <!-- <h1><i>{{ORGANIZATION_TAGLINE}}</i></h1>
 
-  <br>
+  <br> -->
 
   <h2>
-    <a href="https://{{ORGANIZATION_URL}}">🏠 Home</a>
-    <a href="https://{{ORGANIZATION_URL}}">📚 Read the Docs</a>
-    <a href="https://{{ORGANIZATION_URL}}">🫅 Be a Sponsor</a>
-    <a href="https://{{ORGANIZATION_URL}}">🛟 Get Support</a>
-    <a href="https://{{ORGANIZATION_URL}}">☎️ Contact Us</a>
-    <a href="https://{{ORGANIZATION_URL}}">♥️ Join the Community</a>
-  </h2> -->
+    <a href="https://prettybash.github.io">🏠 Home</a>
+    <a href="https://prettybash.github.io/docs">📚 Read the Docs</a>
+    <a href="https://github.com/sponsors/iamprogrammerlk">🫅 Be a Sponsor</a>
+    <a href="https://iamprogrammer.lk/support">🛟 Get Support</a>
+    <a href="https://iamprogrammer.lk/contact">☎️ Contact Us</a>
+    <a href="https://reddit.com/r/iamprogrammerlk">♥️ Join the Community</a>
+  </h2>
 
 </div>
 
-<br><br><br><br>
+<br>
+<br>
 
 # 🚀 Pretty Bash
 
 A collection of scripts designed to enhance the visual appeal of your upcoming Bash script project.
 
-<!-- <br><br>
+<!-- <br>
+<br>
 
 # 🌟 About Us
 
@@ -45,7 +47,8 @@ Pretty Bash is {{DESCRIBE_WHAT_YOUR_ORGANIZATION_DOES}}.
 
   {{YOUR_ORGANIZATIONS__VISION_STATEMENT}} -->
 
-<!-- <br><br>
+<!-- <br>
+<br>
 
 # 🛠️ What We Do
 
@@ -65,7 +68,8 @@ Pretty Bash is {{DESCRIBE_WHAT_YOUR_ORGANIZATION_DOES}}.
 
   {{COMMUNITY_INITIATIVES_OR_SUPPORT}} -->
 
-<!-- <br><br>
+<!-- <br>
+<br>
 
 # 🛠️ Technology Stack
 
@@ -81,7 +85,8 @@ Pretty Bash is {{DESCRIBE_WHAT_YOUR_ORGANIZATION_DOES}}.
 
 - ### {{SAMPLE_INFRASTRUCTURE}} -->
 
-<br><br>
+<br>
+<br>
 
 # 🤝 How to Contribute
 
@@ -97,25 +102,38 @@ We love contributions! Here's how you can help:
 
 - ### 💰 **Financial Support:** Make a [donation][donation]
 
-<!-- <br><br>
+<br>
+<br>
+
+# 📝 Documentation
+
+- ### 📚 Official Documentation: [Our Documentation][documentation]
+
+- ### 🎬 Tutorials & Guides: [Our Tutorials Page][youtube]
+
+- ### 📖 API Reference: [API Documents][api_documentation]
+
+<br>
+<br>
 
 # 📞 Connect With Us
 
-- ### 🌐 Website: [https://{{ORGANIZATION_URL}}][website]
+- ### 🌐 Website: [https://prettybash.github.io][website]
 
-- ### 📧 Email: [contact@{{ORGANIZATION_URL}}][email]
+- ### 📧 Email: [prettybash@workspace.lk][email]
 
-- ### 🏗️ Github: [{{ORGANIZATION_USERNAME}}][github]
+- ### 🏗️ Github: [prettybash][github]
 
-- ### 📚 Reddit: [r/{{ORGANIZATION_USERNAME}}][reddit]
+- ### 📚 Reddit: [r/iamprogrammerlk][reddit]
 
-- ### 💼 LinkedIn: [company/{{ORGANIZATION_USERNAME}}][linkedin]
+<!-- - ### 💼 LinkedIn: [company/prettybash][linkedin] -->
 
-- ### 🐦 X: [{{ORGANIZATION_USERNAME}}][x]
+<!-- - ### 🐦 X: [prettybash][x] -->
 
-- ### 📹 YouTube: [@{{ORGANIZATION_USERNAME}}][youtube] -->
+<!-- - ### 📹 YouTube: [@prettybash][youtube] -->
 
-<br><br>
+<br>
+<br>
 
 # 🌟 Support Us
 
@@ -131,32 +149,35 @@ If you find our work valuable, consider:
 
 - ### 💲 Donating to us
 
-<br><br>
+<br>
+<br>
 
 # 📜 License
 
 Please check individual repositories for specific licensing information.
 
-<br><br>
+<br>
+<br>
 
 ---
 
-_Made with ❤️ by [I am Programmer][lead_maintainer] and [The Pretty Bash Team][contributors]._
+_Made in 🇱🇰 with ❤️ by [I am Programmer][lead_maintainer] and [The Pretty Bash Team][contributors]._
 
-<br><p align="right">(<a href="#readme-top">👆 back to top 👆</a>)</p>
+<br>
+<br>
 
-<br><br><br><br>
-
-[website]: https://{{ORGANIZATION_URL}}
-[email]: mailto:contact@{{ORGANIZATION_URL}}
-[reddit]: https://reddit.com/r/{{ORGANIZATION_USERNAME}}
-[github]: https://github.com/{{ORGANIZATION_USERNAME}}
-[youtube]: https://youtube.com/@{{ORGANIZATION_USERNAME}}
-[x]: https://x.com/{{ORGANIZATION_USERNAME}}
-[linkedin]: https://linkedin.com/company/{{ORGANIZATION_USERNAME}}
+[website]: https://prettybash.github.io
+[email]: mailto:prettybash@workspace.lk
+[reddit]: https://reddit.com/r/iamprogrammerlk
+[github]: https://github.com/prettybash
+[youtube]: https://youtube.com/@iamprogrammerlk
+[x]: https://x.com/prettybash
+[linkedin]: https://linkedin.com/company/prettybash
 [issues]: https://github.com/prettybash/prettybash/issues
 [contributing]: https://github.com/prettybash/prettybash/contributing.md
 [contributors]: https://github.com/prettybash/prettybash/graphs/contributors
-[documentation_repository]: https://github.com/prettybash/prettybash.github.io
+[documentation_repository]: https://github.com/prettybash/docs
 [donation]: https://github.com/sponsors/iamprogrammerlk
 [lead_maintainer]: https://github.com/iamprogrammerlk
+[documentation]: https://prettybash.github.io/docs
+[api_documentation]: https://prettybash.github.io/docs
