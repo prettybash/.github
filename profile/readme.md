@@ -3,7 +3,7 @@
 
 <div align="center" style="text-align: center;">
 
-  <a href="https://prettybash.github.io">
+  <a target="_blank" rel="noreferrer" href="https://prettybash.github.io">
     <img src="prettybash_logo_cover_3840×2160.png" alt="Pretty Bash" width="100%">
   </a>
 
@@ -16,12 +16,12 @@
   <br>
 
   <h2>
-    <a href="https://prettybash.github.io">🏠 Home</a> 
-    <a href="https://prettybash.github.io/docs">📚 Read the Docs</a> 
-    <a href="https://iamprogrammer.lk/sponsor">🫅 Be a Sponsor</a> 
-    <a href="https://iamprogrammer.lk/support">🛟 Get Support</a> 
-    <a href="https://iamprogrammer.lk/contact">☎️ Contact Us</a> 
-    <a href="https://linkedin.com/company/iamprogrammerlk">♥️ Join the Community</a> 
+    <a target="_blank" rel="noreferrer" href="https://prettybash.github.io">🏠 Home</a> 
+    <a target="_blank" rel="noreferrer" href="https://prettybash.github.io/docs">📚 Read the Docs</a> 
+    <a target="_blank" rel="noreferrer" href="https://iamprogrammer.lk/sponsor">🫅 Be a Sponsor</a> 
+    <a target="_blank" rel="noreferrer" href="https://iamprogrammer.lk/support">🛟 Get Support</a> 
+    <a target="_blank" rel="noreferrer" href="https://iamprogrammer.lk/contact">☎️ Contact Us</a> 
+    <a target="_blank" rel="noreferrer" href="https://linkedin.com/company/iamprogrammerlk">♥️ Join the Community</a> 
   </h2>
 
 </div>
@@ -29,7 +29,7 @@
 <br>
 <br>
 
-# Pretty Bash
+# PrettyBash
 
 A collection of scripts designed to enhance the visual appeal of your upcoming Bash script project.
 
